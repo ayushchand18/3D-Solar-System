@@ -22,13 +22,12 @@ A responsive 3D simulation of our solar system with interactive speed controls, 
 ## Setup & Installation
 
 ### Option 1: Quick Run (No Download Needed)
-1. Open **[Live Demo](https://your-github-io-link.github.io)** *(replace with your actual link)*
+1. Open **https://ayushchand18.github.io/3D-Solar-System/** 
 
 ### Option 2: Local Setup
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/solar-system-threejs.git
-   cd solar-system-threejs
+   git clone https://github.com/ayushchand18/3D-Solar-System.git
+   cd 3D-Solar-System
 2.Run a local server (required for Three.js):
   VS Code Users: Install the "Live Server" extension, then right-click index.html and select "Open with Live Server"
   Python Users:
